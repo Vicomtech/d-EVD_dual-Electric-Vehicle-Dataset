@@ -8,7 +8,7 @@ In the next sections, the content and the way to access to the datasets is expla
 
 ## DEVST (Dataset of Electric Vehicle Synthetic Trips)
 
-Simulations have been done using SUMO (Simulation of Urban MObility) software. Data consist of 21 different routes and for each route, a combination of 5 cars, 3 driving styles, 3 confort cases, 5 occupancy cases, 3 wind cases and 3 traffic situations have been combined. The cases are the following:
+Simulations have been done using SUMO (Simulation of Urban MObility) software. Data consists of 21 different routes and for each route, 5 cars, 3 driving styles, 3 confort cases, 5 occupancy cases, 3 wind cases and 3 traffic situations have been combined. The cases are the following:
 
 * Driving style: agressive, moderate, defensive.
 * Confort: high, medium, low.
