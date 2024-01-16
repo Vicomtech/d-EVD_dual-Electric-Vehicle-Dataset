@@ -8,11 +8,25 @@ In the next sections, the content and the way to access to the datasets is expla
 
 ## DEVST (Dataset of Electric Vehicle Synthetic Trips)
 
+Simulations have been done using SUMO (Simulation of Urban MObility) software. Data consist of 21 different routes and for each route, a combination of 5 cars, 3 driving styles, 3 confort cases, 5 occupancy cases, 3 wind cases and 3 traffic situations have been combined. The cases are the following:
+
+* Driving style: agressive, moderate, defensive.
+* Confort: high, medium, low.
+* Occupancy: 1, 2, 3, 4, 5.
+* Traffic: high, medium, low.
+* Wind: high, medium, low.
+
+This combination gives a total of 42525 trips.
+
 To gain access to the dataset, please fill the form in the following link: [link](https://www.google.es)
+
+To know more about the process of getting data and building the dataset, refer to the following paper: [link](https://www.google.es) 
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
 To gain access to the dataset, please fill the form in the following link: [link](https://www.google.es)
+
+<!--To know more about the process of getting data and building the dataset, refer to the following paper: [link](https://www.google.es) -->
 
 ## License
 For both datasets:
