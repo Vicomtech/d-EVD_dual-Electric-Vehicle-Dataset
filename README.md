@@ -20,3 +20,12 @@ For both datasets:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
+
+## Contact
+
+If you have any question or suggestion, do not hesitate to contact us at the following addresses:
+
+* Eider Irigoyen: eirigoyen@vicomtech.org
+* Iñaki Cejudo: icejudo@vicomtech.org
+* Harbil Arregui: harregui@vicomtech.org
+* Estíbaliz Loyo: eloyo@vicomtech.org 
