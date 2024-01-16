@@ -18,15 +18,15 @@ Simulations have been done using SUMO (Simulation of Urban MObility) software. D
 
 This combination gives a total of 42525 trips.
 
-To gain access to the dataset, please fill the form in the following link: [link](https://www.google.es)
+To gain access to the dataset, please fill the form in the following [link](https://www.google.es).
 
-To know more about the process of getting data and building the dataset, refer to the following paper: [link](https://www.google.es) 
+To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.google.es).
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
-To gain access to the dataset, please fill the form in the following link: [link](https://www.google.es)
+To gain access to the dataset, please fill the form in the following [link](https://www.google.es).
 
-<!--To know more about the process of getting data and building the dataset, refer to the following paper: [link](https://www.google.es) -->
+<!--To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.google.es). -->
 
 ## License
 For both datasets:
