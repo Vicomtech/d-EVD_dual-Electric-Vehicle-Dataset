@@ -1,4 +1,13 @@
 # d-EVD_dual-Electric-Vehicle-Dataset
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://gitlab.vicomtech.es/USAFES_IN4196_2018/usafes/tree/develop">
+    <img src="logo.png" alt="Logo" height="80">
+  </a>    
+</p>
+
 This is a dual dataset of electric vehicle trips where battery, driving conditions and external conditions data is obtained. Electric car owners have the uncertainty of the battery range. Battery, speed, geo-position, traffic and weather parameters have a big influence in battery consumption. The purpose of these datasets is to train models for an accurate battery range prediction. 
 
 It is a dual dataset because there are two different datasets. One is formed with synthetic data from a wide range of simulations (DEVST), and the other are real trips carried out with two different vehicles (DEVRT).
