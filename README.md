@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://gitlab.vicomtech.es/USAFES_IN4196_2018/usafes/tree/develop">
+  <a href="https://github.com/Vicomtech/d-EVD_dual-Electric-Vehicle-Dataset">
     <img src="logo.png" alt="Logo" height="80">
   </a>    
 </p>
