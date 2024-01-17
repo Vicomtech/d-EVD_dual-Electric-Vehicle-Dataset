@@ -8,7 +8,7 @@
   </a>    
 </p>
 
-This is a dual dataset of electric vehicle trips where battery, driving conditions and external conditions data is obtained. Electric car owners have the uncertainty of the battery range. Battery, speed, geo-position, traffic and weather parameters have a big influence in battery consumption. The purpose of these datasets is to train models for an accurate battery range prediction. 
+This is a dual dataset of electric vehicle trips where battery, driving conditions and external conditions data is obtained. Electric car owners have the uncertainty of the battery range. SoC, speed, geo-position, traffic and weather are key parameters for analyzing battery consumption. The purpose of these datasets is to train models for an accurate battery range prediction. 
 
 It is a dual dataset because there are two different datasets. One is formed by synthetic data from a wide range of simulations (DEVST), and the other by real trips carried out with two different vehicles (DEVRT).
 
