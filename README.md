@@ -10,7 +10,7 @@
 
 This is a dual dataset of electric vehicle trips where battery, driving conditions and external conditions data is obtained. Electric car owners have the uncertainty of the battery range. Battery, speed, geo-position, traffic and weather parameters have a big influence in battery consumption. The purpose of these datasets is to train models for an accurate battery range prediction. 
 
-It is a dual dataset because there are two different datasets. One is formed with synthetic data from a wide range of simulations (DEVST), and the other are real trips carried out with two different vehicles (DEVRT).
+It is a dual dataset because there are two different datasets. One is formed by synthetic data from a wide range of simulations (DEVST), and the other by real trips carried out with two different vehicles (DEVRT).
 
 In the next sections, the content and the way to access to the datasets is explained.
 
@@ -33,7 +33,7 @@ To know more about the process of getting data and building the dataset, refer t
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
-For the real trips dataset, many routes have been done, some more than one time, with two electric vehciles. A Dacia Spring and a Nissan Leaf. One is more intended to be used use in urban trips and the other in medium and large trips. For obtaining vehicle battery data, an OBD-II device has been used. For obtaining the rest of the data, two external apis have been used: 
+For the real trips dataset, many routes have been done, some more than one time, with two electric vehciles. A Dacia Spring and a Nissan Leaf. One is more intended to be used in urban trips and the other in medium and large trips. For obtaining vehicle battery data, an OBD-II device has been used. For obtaining the rest of the data, two external APIs have been used: 
 * [Weatherapi](https://www.weatherapi.com/) for weather data.
 * [Open data euskadi](https://opendata.euskadi.eus/) for traffic data.
 
