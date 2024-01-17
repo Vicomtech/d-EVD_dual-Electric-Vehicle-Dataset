@@ -16,7 +16,7 @@ Simulations have been done using SUMO (Simulation of Urban MObility) software. D
 * Traffic: high, medium, low.
 * Wind: high, medium, low.
 
-This combination gives a total of 42525 trips.
+The combination of all these cases gives a total of 42525 trips.
 
 To gain access to the dataset, please fill the form in the following [link](https://www.vicomtech.org/en).
 
@@ -24,7 +24,7 @@ To know more about the process of getting data and building the dataset, refer t
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
-For the real trips dataset, many routes have been done, some more than one time, with two electric vehciles. A Dacia Spring and a Nissan Leaf. One is more intended to be used use in urban trips and the other in medium and large trips. For obtaining vehicle battery data, a OBD-II device has been used. For obtaining the rest of the data, two external apis have been used: 
+For the real trips dataset, many routes have been done, some more than one time, with two electric vehciles. A Dacia Spring and a Nissan Leaf. One is more intended to be used use in urban trips and the other in medium and large trips. For obtaining vehicle battery data, an OBD-II device has been used. For obtaining the rest of the data, two external apis have been used: 
 * [Weatherapi](https://www.weatherapi.com/) for weather data.
 * [Open data euskadi](https://opendata.euskadi.eus/) for traffic data.
 
