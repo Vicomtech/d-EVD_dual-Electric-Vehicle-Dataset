@@ -27,7 +27,7 @@ Simulations have been done using SUMO (Simulation of Urban MObility) software. D
 
 The combination of all these cases gives a total of 42525 trips.
 
-To gain access to the dataset, please fill the form in the following [link](https://www.vicomtech.org/en).
+To gain access to the dataset, please fill the form in the following [link](https://opendatasets.vicomtech.org/di23-devst-dataset-of-electric-vehicle-simulated-trips/d913b9ff).
 
 To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.vicomtech.org/en).
 
@@ -40,7 +40,7 @@ For the real trips dataset, many routes have been done, some more than one time,
 As a result, during 5 consecutive days 29 urban/non-urban trips have been carried out with each vehicle, which gives a total of 58 trips.
 
 
-To gain access to the dataset, please fill the form in the following [link](https://www.vicomtech.org/en).
+To gain access to the dataset, please fill the form in the following [link](https://opendatasets.vicomtech.org/di23-devrt-dataset-of-electric-vehicle-real-trips/85b07c75).
 
 <!--To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.vicomtech.org/en). -->
 
