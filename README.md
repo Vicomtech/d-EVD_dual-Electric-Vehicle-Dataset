@@ -29,7 +29,7 @@ The combination of all these cases gives a total of 42525 trips.
 
 To gain access to the dataset, please fill the form in the following [link](https://opendatasets.vicomtech.org/di23-devst-dataset-of-electric-vehicle-simulated-trips/d913b9ff).
 
-To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.vicomtech.org/en) (In publication process).
+To know more about the process of getting data and building the dataset, refer to the following paper: [Electric vehicle battery consumption estimation model based on simulated environments](https://www.vicomtech.org/en) (In publication process).
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
