@@ -33,7 +33,7 @@ To know more about the process of getting data and building the dataset, refer t
 
 ## DEVRT (Dataset of Electric Vehicle Real Trips)
 
-For the real trips dataset, many routes have been done, some more than one time, with two electric vehciles. A Dacia Spring and a Nissan Leaf. One is more intended to be used in urban trips and the other in medium and large trips. For obtaining vehicle battery data, an OBD-II device has been used. For obtaining the rest of the data, two external APIs have been used: 
+For the real trips dataset, many routes have been done, some more than one time, with two electric vehicles. A Dacia Spring and a Nissan Leaf. One is more intended to be used in urban trips and the other in medium and large trips. For obtaining vehicle battery data, an OBD-II device has been used. For obtaining the rest of the data, two external APIs have been used: 
 * [Weatherapi](https://www.weatherapi.com/) for weather data.
 * [Open data euskadi](https://opendata.euskadi.eus/) for traffic data.
 
