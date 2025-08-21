@@ -45,11 +45,13 @@ To gain access to the dataset, please fill the form in the following [link](http
 <!--To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.vicomtech.org/en). -->
 
 ## License
-For both datasets:
+This license applies to both datasets. 
 
-The dataset is developed by Vicomtech and is made avaliable under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)).
+The datasets are developed by Vicomtech and are made avaliable under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
+This license requires that reusers give credit to the creator. In the event that datasets are used, in whole or in part, in any project, publication, or product, appropriate credit must be given to the rights holder as follows: "This dataset was developed by and is the property of Fundación Centro de Tecnologías de Interacción Visual y Comunicaciones Vicomtech, available at https://github.com/Vicomtech/d-EVD_dual-Electric-Vehicle-Dataset". Failure to provide proper attribution constitutes a violation of the terms of this license.
+
+The license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 
 ## Contact
 
