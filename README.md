@@ -42,7 +42,7 @@ As a result, during 5 consecutive days 29 urban/non-urban trips have been carrie
 
 To gain access to the dataset, please fill the form in the following [link](https://opendatasets.vicomtech.org/di23-devrt-dataset-of-electric-vehicle-real-trips/85b07c75).
 
-<!--To know more about the process of getting data and building the dataset, refer to the following [paper](https://www.vicomtech.org/en). -->
+To know more about the process of getting data and building the dataset, refer to the following paper: [Methodology and Toolset for an Electric Vehicle Trajectory Dataset Creation: DEVRT](https://www.mdpi.com/3854574).
 
 ## License
 This license applies to both datasets. 
